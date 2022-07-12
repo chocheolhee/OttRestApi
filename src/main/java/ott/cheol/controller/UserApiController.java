@@ -15,7 +15,7 @@ public class UserApiController {
     private final UserService userService;
 
     /**
-     * 회원가입 !!!
+     * 회원가입
      */
     @PostMapping("/api/register")
     public Long register(@RequestBody UserForm userForm) {

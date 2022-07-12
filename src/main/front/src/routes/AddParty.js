@@ -14,7 +14,7 @@ function AddParty() {
         <div>
             파티추가 페이지
             <h1 className="App-title">{message}</h1>
-            <p>CORS 드디어 성공 ㅠㅠ</p>
+            <p>CORS 드디어 성공 ㅠㅠ!!!</p>
         </div>
     );
 }
