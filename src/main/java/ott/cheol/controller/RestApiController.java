@@ -10,6 +10,6 @@ public class RestApiController {
     @GetMapping("/api/addParty")
     public String addParty() {
 
-        return "안녕하세요. 현재 서버시간은 " + new Date() + "입니다. \n";
+        return "안녕하세요. 현재 서버시간은 " + new Date() + "입니다.! \n";
     }
 }
